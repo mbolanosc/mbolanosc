@@ -8,3 +8,4 @@ Some facts about me:
 - I'am a web developer and graphic designer. 🖥️ 
 - Currently working as Front End developer.🤓
 - I'm in love with UI/UX. 🎨
+- You can find me on instagram as @mbolanosc ✨ 

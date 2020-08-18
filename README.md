@@ -1,3 +1,6 @@
+### Hi there! 
+
+
 ### Some facts about me: 
 - From San José, Costa Rica. 🇨🇷
 - I'm a web developer and graphic designer. 🖥️ 

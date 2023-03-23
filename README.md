@@ -3,7 +3,7 @@
 
 ### Some facts about me: 
 - From San José, Costa Rica. 🇨🇷
-- I'm a web developer and graphic designer. 🖥️ 
+- Web developer & graphic designer. 🖥️ 
 - Currently working as Full Stack developer.🤓
 
 You can find me on [LinkedIn][1]✨
